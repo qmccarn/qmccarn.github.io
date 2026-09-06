@@ -22,8 +22,8 @@ Live site: https://qmccarn.github.io
 - **About Me** – background, major, and career/AI interests
 - **Skills** – technical and analytical skills
 - **Projects** – course and personal project highlights
-- **Resume** – downloadable resume (coming soon)
-- **Contact** – email, GitHub, and LinkedIn
+- **Resume** – downloadable PDF resume
+- **Contact** – email and GitHub
 
 ## Setup Notes
 
